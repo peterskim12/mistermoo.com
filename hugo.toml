@@ -1,0 +1,19 @@
+baseURL = "https://mistermoo.com"
+languageCode = "en-us"
+title = "mistermoo"
+theme = "PaperMod"
+enableRobotsTXT = true
+
+[params]
+description = "Website of Peter S. Kim"
+defaultTheme = "dark"
+disableThemeToggle = true
+ShowShareButtons = false
+
+[params.homeInfoParams]
+Title = "Hi there 👋"
+Content = "Welcome to my website. My name is Peter and I live in Philadelphia, PA USA. This is where I post long-form thoughts on topics that I find interesting--most likely some combination of 1) living in cities, 2) bicycles, and 3) Christianity. I post my more ephemeral content on Instagram and Threads as @bromptonpete."
+
+[[params.socialIcons]]
+name = "instagram"
+url = "https://www.instagram.com/bromptonpete/"
