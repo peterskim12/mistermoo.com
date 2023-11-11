@@ -5,7 +5,7 @@ draft = false
 +++
 
 Unfortunately, I think we've largely lost the ability to engage over long-form content. 
-Most substantive things in life can't actually be boiled down to pithy ~180 character social
+Most substantive things in life can't actually be boiled down to ~180 character social
 media posts. We have incredibly short attention spans which requires people to shock each other
 to grab one another's attention. 
 
