@@ -1,7 +1,7 @@
 +++
 title = 'Psalm 3'
 date = 2024-09-22T19:32:33-05:00
-draft = true
+draft = false
 +++
 
 > **Trust in God under Adversity**  
