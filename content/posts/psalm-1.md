@@ -4,26 +4,39 @@ date = 2023-11-11T14:15:00-05:00
 draft = false
 +++
 
-> **The Two Ways**
->
-> 1 Happy are those  
-> &nbsp;&nbsp;&nbsp;&nbsp;who do not follow the advice of the wicked  
-> or take the path that sinners tread  
-> &nbsp;&nbsp;&nbsp;&nbsp;or sit in the seat of scoffers,  
-> 2 but their delight is in the law of the Lord,  
-> &nbsp;&nbsp;&nbsp;&nbsp;and on his law they meditate day and night.  
-> 3 They are like trees  
-> &nbsp;&nbsp;&nbsp;&nbsp;planted by streams of water,  
-> which yield their fruit in its season,  
-> &nbsp;&nbsp;&nbsp;&nbsp;and their leaves do not wither.  
-> In all that they do, they prosper.  
-> 
-> 4 The wicked are not so  
-> &nbsp;&nbsp;&nbsp;&nbsp;but are like chaff that the wind drives away.  
-> 5 Therefore the wicked will not stand in the judgment  
-> &nbsp;&nbsp;&nbsp;&nbsp;nor sinners in the congregation of the righteous,  
-> 6 for the Lord watches over the way of the righteous,  
-> &nbsp;&nbsp;&nbsp;&nbsp;but the way of the wicked will perish.  
+```
+Psalm 1 NET
+
+How blessed is the one who does not follow the advice of the wicked,
+
+or stand in the pathway with sinners,
+
+or sit in the assembly of scoffers.
+
+2 Instead he finds pleasure in obeying the Lord’s commands;
+
+he meditates on his commands day and night.
+
+3 He is like a tree planted by flowing streams;
+
+it yields its fruit at the proper time,
+
+and its leaves never fall off.
+
+He succeeds in everything he attempts.
+
+4 Not so with the wicked!
+
+Instead they are like wind-driven chaff.
+
+5 For this reason the wicked cannot withstand judgment,
+
+nor can sinners join the assembly of the godly.
+
+6 Certainly the Lord guards the way of the godly,
+
+but the way of the wicked ends in destruction.
+```
 
 I've decided to restart my scripture-reading practice by going to the Psalms. When I read the words "wicked" and "righteous",
 it makes me think of how some people tend to try to lump others they have very strong moral disagreements into another bucket.
