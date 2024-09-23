@@ -5,8 +5,6 @@ draft = false
 +++
 
 ```
-Psalm 3 NET
-
 A psalm of David, written when he fled from his son Absalom.
 
 Lord, how numerous are my enemies!
@@ -44,6 +42,10 @@ you will break the teeth of the wicked.
 8 The Lord delivers;
 
 you show favor to your people. (Selah)
+
+NET
+
+Scripture quoted by permission. Quotations designated (NET) are from the NET Bible® copyright ©1996, 2019 by Biblical Studies Press, L.L.C. http://netbible.com All rights reserved
 ```
 
 Ok I'm really behind. This was one of those projects I took on when I was in-between jobs. And I thought "oh I have plenty of time". Regardless of whether I'm employed or not, it's hard to make space for reading the Bible unless you make it a priority.

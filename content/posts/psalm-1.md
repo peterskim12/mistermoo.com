@@ -5,8 +5,6 @@ draft = false
 +++
 
 ```
-Psalm 1 NET
-
 How blessed is the one who does not follow the advice of the wicked,
 
 or stand in the pathway with sinners,
@@ -36,6 +34,10 @@ nor can sinners join the assembly of the godly.
 6 Certainly the Lord guards the way of the godly,
 
 but the way of the wicked ends in destruction.
+
+NET
+
+Scripture quoted by permission. Quotations designated (NET) are from the NET Bible® copyright ©1996, 2019 by Biblical Studies Press, L.L.C. http://netbible.com All rights reserved
 ```
 
 I've decided to restart my scripture-reading practice by going to the Psalms. When I read the words "wicked" and "righteous",

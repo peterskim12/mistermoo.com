@@ -5,8 +5,6 @@ draft = false
 +++
 
 ```
-Psalm 2 NET
-
 Why do the nations rebel?
 
 Why are the countries devising plots that will fail?
@@ -64,6 +62,10 @@ and you will die because of your behavior,
 when his anger quickly ignites.
 
 How blessed are all who take shelter in him!
+
+NET
+
+Scripture quoted by permission. Quotations designated (NET) are from the NET Bible® copyright ©1996, 2019 by Biblical Studies Press, L.L.C. http://netbible.com All rights reserved
 ```
 
 So I'm already way behind on my attempt to do one chapter of the Bible per day. 
