@@ -46,7 +46,8 @@ than those who have abundant grain and wine.
 for you, Lord, make me safe and secure.
 
 NET
-
-Scripture quoted by permission. Quotations designated (NET) are from the NET Bible® copyright ©1996, 2019 by Biblical Studies Press, L.L.C. http://netbible.com All rights reserved
 ```
 
+
+
+_Scripture quoted by permission. Quotations designated (NET) are from the NET Bible® copyright ©1996, 2019 by Biblical Studies Press, L.L.C. [http://netbible.com](http://netbible.com) All rights reserved_

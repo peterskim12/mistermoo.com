@@ -44,8 +44,6 @@ you will break the teeth of the wicked.
 you show favor to your people. (Selah)
 
 NET
-
-Scripture quoted by permission. Quotations designated (NET) are from the NET Bible® copyright ©1996, 2019 by Biblical Studies Press, L.L.C. http://netbible.com All rights reserved
 ```
 
 Ok I'm really behind. This was one of those projects I took on when I was in-between jobs. And I thought "oh I have plenty of time". Regardless of whether I'm employed or not, it's hard to make space for reading the Bible unless you make it a priority.
@@ -53,3 +51,6 @@ Ok I'm really behind. This was one of those projects I took on when I was in-bet
 I spent about an hour fixing the tech stuff for this site. I used to use render.com to auto-deploy changes, but I changed it to use Github Actions and Github Pages instead to eliminate the dependency on another service. 
 
 Anyway, I have nothing to add here from my previous thoughts on [Psalm 2]({{< ref "psalm-2" >}}).
+
+
+_Scripture quoted by permission. Quotations designated (NET) are from the NET Bible® copyright ©1996, 2019 by Biblical Studies Press, L.L.C. [http://netbible.com](http://netbible.com) All rights reserved_

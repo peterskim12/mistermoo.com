@@ -36,8 +36,6 @@ nor can sinners join the assembly of the godly.
 but the way of the wicked ends in destruction.
 
 NET
-
-Scripture quoted by permission. Quotations designated (NET) are from the NET Bible® copyright ©1996, 2019 by Biblical Studies Press, L.L.C. http://netbible.com All rights reserved
 ```
 
 I've decided to restart my scripture-reading practice by going to the Psalms. When I read the words "wicked" and "righteous",
@@ -67,3 +65,6 @@ it means to be happy or successful.
 
 The mission of the church is to call humanity into a specific vision of *The Good Life*, one that is revealed through the Bible
 and through a life in communion with the living God.
+
+
+_Scripture quoted by permission. Quotations designated (NET) are from the NET Bible® copyright ©1996, 2019 by Biblical Studies Press, L.L.C. [http://netbible.com](http://netbible.com) All rights reserved_

@@ -64,8 +64,6 @@ when his anger quickly ignites.
 How blessed are all who take shelter in him!
 
 NET
-
-Scripture quoted by permission. Quotations designated (NET) are from the NET Bible® copyright ©1996, 2019 by Biblical Studies Press, L.L.C. http://netbible.com All rights reserved
 ```
 
 So I'm already way behind on my attempt to do one chapter of the Bible per day. 
@@ -99,3 +97,6 @@ being obedient to God and recognition that he still has authority over you, rega
 of how powerful you feel. "Happy are all who take refuge in him"--regardless of whether 
 you're president of the most powerful nation in the world or struggling with homelessness
 and poverty. 
+
+
+_Scripture quoted by permission. Quotations designated (NET) are from the NET Bible® copyright ©1996, 2019 by Biblical Studies Press, L.L.C. [http://netbible.com](http://netbible.com) All rights reserved_
