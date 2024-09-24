@@ -1,7 +1,7 @@
 +++
 title = 'Psalm 5'
 date = 2024-09-24T07:57:05-04:00
-draft = true
+draft = false
 +++
 
 ```

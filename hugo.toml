@@ -9,6 +9,7 @@ description = "Website of Peter S. Kim"
 defaultTheme = "dark"
 disableThemeToggle = true
 ShowShareButtons = false
+ShowReadingTime = true
 
 [params.homeInfoParams]
 Title = "Hi there 👋"
