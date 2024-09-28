@@ -18,3 +18,7 @@ Content = "Welcome to my website. My name is Peter and I live in Philadelphia, P
 [[params.socialIcons]]
 name = "instagram"
 url = "https://www.instagram.com/bromptonpete/"
+
+[[params.socialIcons]]
+name = "youtube"
+url = "https://www.youtube.com/@bromptonpete"
