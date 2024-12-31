@@ -20,5 +20,9 @@ name = "instagram"
 url = "https://www.instagram.com/bromptonpete/"
 
 [[params.socialIcons]]
+name = "twitter"
+url = "https://bsky.app/profile/peterskim.org"
+
+[[params.socialIcons]]
 name = "youtube"
 url = "https://www.youtube.com/@bromptonpete"
