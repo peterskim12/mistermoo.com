@@ -13,7 +13,7 @@ ShowReadingTime = true
 
 [params.homeInfoParams]
 Title = "Hi there 👋"
-Content = "Welcome to my website. My name is Peter and I live in Philadelphia, PA USA. This is where I post long-form thoughts on topics that I find interesting--most likely some combination of 1) living in cities, 2) bicycles, and 3) Christianity. I post my more ephemeral content on Instagram and Threads as @bromptonpete."
+Content = "Welcome to my website. My name is Peter and I live in Philadelphia, PA USA. This is where I post long-form thoughts on topics that I find interesting--most likely some combination of 1) living in cities, 2) bicycles, and 3) Christianity. I post my more ephemeral content on Instagram as @bromptonpete and on Bluesky as @peterskim.org."
 
 [[params.socialIcons]]
 name = "instagram"
